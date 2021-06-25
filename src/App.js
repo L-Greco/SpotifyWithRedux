@@ -23,7 +23,7 @@ class App extends React.Component {
       try {
         let response = await fetch(
           "https://striveschool-api.herokuapp.com/api/deezer/search?q=" +
-            string,
+          string,
           {
             method: "GET",
             headers,

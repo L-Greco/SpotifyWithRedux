@@ -86,7 +86,7 @@ class Sidebar extends React.Component {
             </div>
           </div>
 
-          <div className="nav-btn">
+          <div className="nav-btn mb-5">
             <button className="btn" id="signup-btn" type="button">
               Sign Up
             </button>

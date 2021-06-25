@@ -230,3 +230,13 @@ ul {
 .mainPage img {
   width: 200px;
 }
+.heart {
+  font-size: 1.5rem;
+  color: white;
+  cursor: pointer;
+}
+
+.heart:hover {
+  color: pink;
+  transform: scale(1.2);
+}
